@@ -1,0 +1,21 @@
+.aval-mobile{
+	width: 9%;
+}
+
+@media (min-width: 992px) {
+    .pushmobile {
+        display: none!important
+    }
+	.add-mobile {
+        width: 15%!important
+    }
+	
+	.aval-mobile{
+		width: 2%!important
+	}
+	
+	.not-mobile{
+		width: 600px!important
+	}
+}
+
